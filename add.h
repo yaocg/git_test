@@ -3,4 +3,5 @@
 int add(int r, int l);
 int add2(int r, int l);
 int add3(int r, int l);
+int add4(int r, int l);
 #endif
